@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7); margin: 0 10px;"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 117, 143, 0.7); margin: 0 10px;"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(55, 118, 171, 0.7); margin: 0 10px;"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7); margin: 0 10px;"/>
+ 
 </p>
 
 ---
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(240, 80, 50, 0.7); margin: 0 10px;"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(24, 23, 23, 0.7); margin: 0 10px;"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 122, 204, 0.7); margin: 0 10px;"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 108, 55, 0.7); margin: 0 10px;"/>
 </p>
 
 ---
